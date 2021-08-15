@@ -1,0 +1,12 @@
+{
+	"name": "fix-buffer-in-browser",
+	"description": "Fix Buffer in the browser.",
+	"version": "0.1.0",
+	"main": "index.js",
+	"author": "Prokop Schield",
+	"keywords": ["buffer", "browser"],
+	"license": "GPL-3.0-or-later",
+	"dependencies": {
+		"buffer": "^6.0.3"
+	}
+}
