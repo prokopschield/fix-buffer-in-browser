@@ -1,7 +1,7 @@
 {
 	"name": "fix-buffer-in-browser",
 	"description": "Fix Buffer in the browser.",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"main": "index.js",
 	"author": "Prokop Schield",
 	"keywords": ["buffer", "browser"],
